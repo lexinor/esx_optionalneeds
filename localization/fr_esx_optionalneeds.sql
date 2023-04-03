@@ -1,5 +1,5 @@
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
-	('beer', 'Cerveza', 1)
+	('beer', 'Bière', 1)
 ;
 
 INSERT INTO `shops` (store, item, price) VALUES
